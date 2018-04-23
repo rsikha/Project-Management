@@ -6,3 +6,4 @@ Things to do:
 3. Develop
 4. Test
 5. Bug fixes; Improvements
+6. Improve README
