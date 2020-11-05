@@ -10,3 +10,7 @@ Things to do:
 
 ## Plan
 Planning of the project involves finding a clear objective. That is answer the question 'Why' we are doing this.
+
+## Design
+Design of a project mainly focuses on what needs to be designed; the answer to 'how' is not necessarily defined
+in this phase.
