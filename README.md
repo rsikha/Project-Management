@@ -14,3 +14,11 @@ Planning of the project involves finding a clear objective. That is answer the q
 ## Design
 Design of a project mainly focuses on what needs to be designed; the answer to 'how' is not necessarily defined
 in this phase.
+
+## Develop
+
+## Test
+
+## Bug fixes; Improvements
+
+## Improve README
