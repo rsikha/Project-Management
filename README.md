@@ -1,5 +1,5 @@
 # Project Management
-Testing project.
+Project Management Steps for a complete delivery.
 Things to do:
 1. Plan
 2. Design
@@ -22,3 +22,7 @@ in this phase.
 ## Bug fixes; Improvements
 
 ## Improve README
+
+# References
+1. My Blog - https://itcudhelpu.blogspot.com/
+2. My Github Home - https://github.com/rsikha
